@@ -1,2 +1,0 @@
-deneme kitap;deneme yazar;10
-test kitap;test yazar;20
